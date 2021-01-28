@@ -153,3 +153,4 @@ Open Health Tools (OHT)  <http://www.openhealthtools.org>
 Misys Open Source Solutions (MOSS) <http://www.misysoss.com/>
 University of Cardiff <http://www.cs.cardiff.ac.uk>
 Jembi Health Systems <http://www.jembi.org/>
+http://www.openempi.org/confluence/display/openxds/Home
